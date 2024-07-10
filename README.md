@@ -1,3 +1,7 @@
+### Soal Test Nomor 1 beserta Unit Test nya
+
+<a href="https://github.com/ramaditoferdian/landing-page-erp-company/tree/main/test" target="_blank"><b>Klik Disini</b></a>
+
 ### Dokumentasi Teknologi yang Digunakan dalam Proyek
 
 #### Deskripsi Proyek
